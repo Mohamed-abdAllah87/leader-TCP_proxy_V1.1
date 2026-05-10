@@ -1,7 +1,7 @@
 # leader-TCP_proxy_V1.1
 feat: add packet manipulation and user-agent spoofing capability.
 
-### 🛡️ Advanced Feature: Packet Manipulation (User-Agent Spoofing)
+### Advanced Feature: Packet Manipulation (User-Agent Spoofing)
 Unlike a simple TCP relay, this proxy now includes a dynamic **Request Handler** that demonstrates a real-world "Man-in-the-Middle" (MITM) attack. 
 
 **How it works:**
